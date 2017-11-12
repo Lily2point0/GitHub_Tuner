@@ -1,0 +1,9 @@
+.DS_Store
+.env
+private.key
+node_modules/*
+nexmo/*
+output/*
+temp/*
+sounds/*
+package-lock.json
