@@ -16,7 +16,7 @@
     "nexmo": "^2.0.2",
     "node-fetch": "^1.7.3",
     "path": "^0.12.7",
-    "puppeteer": "^0.12.0",
+    "puppeteer": "^5.2.1",
     "sox-audio": "^0.3.0"
   }
 }
